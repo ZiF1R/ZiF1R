@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ZiF1R&theme=material-palenight&hide_border=true" alt="ZiF1R's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="ZiF1R's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZiF1R&theme=material-palenight&layout=compact" />
+      <img height="195px" align="right" alt="ZiF1R's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZiF1R&theme=material-palenight&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
