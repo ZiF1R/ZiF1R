@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ZiF1R&theme=material-palenight&hide_border=true" alt="ZiF1R's Github stats" />
-    </td>
+
 -->
 
 
@@ -22,6 +20,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ZiF1R&theme=material-palenight&hide_border=true" alt="ZiF1R's Github stats" />
+    </td>
     <td>
       <img height="195px" align="center" alt="ZiF1R's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZiF1R&theme=material-palenight&layout=compact&hide_border=true" />
     </td>
