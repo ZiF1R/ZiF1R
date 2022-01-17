@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=333)
 ![Notion](https://img.shields.io/badge/notion-%23323330.svg?style=for-the-badge&logo=notion&color=333&logoColor=white)
 
+### Other languages
+
+![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=c-sharp&color=333&logoColor=42a5f5)
+![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=cplusplus&color=333&logoColor=2196f3)
+
 ### 📈 GitHub Analytics
 
 <table>
