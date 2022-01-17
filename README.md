@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ### Other tools
 
 ![Jest](https://img.shields.io/badge/jest-%23323330.svg?style=for-the-badge&logo=jest&color=333&logoColor=e91e63)
+![Webpack](https://img.shields.io/badge/webpack-%23323330.svg?style=for-the-badge&logo=webpack&color=333&logoColor=lightblue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=333)
 ![Notion](https://img.shields.io/badge/notion-%23323330.svg?style=for-the-badge&logo=notion&color=333&logoColor=white)
 
