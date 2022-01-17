@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=c-sharp&color=333&logoColor=42a5f5)
 ![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=cplusplus&color=333&logoColor=2196f3)
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <table>
   <tr>
