@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my portfolio project.
 - 🌱 I’m currently learning Vue.js and its ecosystem
 - 🔥 I also learning everything new, which will help me to do my best on the real work 💪
-- 📫 How to reach me: doalex401@gmail.com
+- 📫 How to reach me: doalex401@gmail.com or do-alex03@mail.ru
 - 💬 Or ask me on [VK](https://vk.com/sashadobriyan)
 
 ## 🛠 My actual technological stack
