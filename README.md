@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🛠 My actual technological stack
 
-### Essentials
+### Main
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&color=333)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&color=333&logoColor=42a5f5)
