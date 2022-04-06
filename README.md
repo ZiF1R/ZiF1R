@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&color=333&logoColor=ec407a)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&color=333&logoColor=ff3d00)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=microsoft-sql-server&logoColor=e40017&color=333)
 
 ### Frameworks
 
